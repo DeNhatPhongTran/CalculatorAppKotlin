@@ -1,1 +1,1 @@
-# CalculatorAppKotlin
+KoltinApp
